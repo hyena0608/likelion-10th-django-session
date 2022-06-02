@@ -12,7 +12,7 @@ def new(request):
 
 # def create(request):
 
-def detail(request):
+def detail(request, board_id):
     # Board 넘겨주기
     
     # Comment 넘겨주기
